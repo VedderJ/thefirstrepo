@@ -1,0 +1,488 @@
+[
+    {
+        "Asset": "Backup generator",
+        "Activity_Type": "Backup generator",
+        "Activity": "Diesel",
+        "Fuel_Type": 2000,
+        "Consumption": "litre",
+        "Unit": 4300,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Backup generator",
+        "Activity_Type": "Backup generator",
+        "Activity": "Diesel",
+        "Fuel_Type": 1560,
+        "Consumption": "litre",
+        "Unit": 3354,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Backup generator",
+        "Activity_Type": "Backup generator",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Backup generator",
+        "Activity_Type": "Backup generator",
+        "Activity": "Diesel",
+        "Fuel_Type": 30,
+        "Consumption": "litre",
+        "Unit": 65,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Backup generator",
+        "Activity_Type": "Backup generator",
+        "Activity": "Diesel",
+        "Fuel_Type": 3600,
+        "Consumption": "litre",
+        "Unit": 11500,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Backup generator",
+        "Activity_Type": "Backup generator",
+        "Activity": "Diesel",
+        "Fuel_Type": 886,
+        "Consumption": "litre",
+        "Unit": 1905,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Backup generator",
+        "Activity_Type": "Backup generator",
+        "Activity": "Diesel",
+        "Fuel_Type": 1245,
+        "Consumption": "litre",
+        "Unit": 2677,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Backup generator",
+        "Activity_Type": "Backup generator",
+        "Activity": "Diesel",
+        "Fuel_Type": 923,
+        "Consumption": "litre",
+        "Unit": 1984,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Backup generator",
+        "Activity_Type": "Backup generator",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Cars",
+        "Activity": "Petrol",
+        "Fuel_Type": 35000,
+        "Consumption": "litre",
+        "Unit": 71750,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Motorcycles",
+        "Activity": "Petrol",
+        "Fuel_Type": 200,
+        "Consumption": "litre",
+        "Unit": 410,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Petrol",
+        "Fuel_Type": 772,
+        "Consumption": "litre",
+        "Unit": 1583,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Diesel",
+        "Fuel_Type": 3500,
+        "Consumption": "litre",
+        "Unit": 7525,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Bus",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Cars",
+        "Activity": "Petrol",
+        "Fuel_Type": 28799,
+        "Consumption": "litre",
+        "Unit": 59038,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Motorcycles",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Petrol",
+        "Fuel_Type": 1322,
+        "Consumption": "litre",
+        "Unit": 2710,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Diesel",
+        "Fuel_Type": 1597,
+        "Consumption": "litre",
+        "Unit": 3434,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Bus",
+        "Activity": "Diesel",
+        "Fuel_Type": 256,
+        "Consumption": "litre",
+        "Unit": 550,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Cars",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Motorcycles",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Bus",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Cars",
+        "Activity": "Petrol",
+        "Fuel_Type": 990,
+        "Consumption": "litre",
+        "Unit": 2030,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Motorcycles",
+        "Activity": "Petrol",
+        "Fuel_Type": 552,
+        "Consumption": "litre",
+        "Unit": 1132,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Bus",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Cars",
+        "Activity": "Petrol",
+        "Fuel_Type": 1100,
+        "Consumption": "litre",
+        "Unit": 2255,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Motorcycles",
+        "Activity": "Petrol",
+        "Fuel_Type": 368,
+        "Consumption": "litre",
+        "Unit": 754,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Bus",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Cars",
+        "Activity": "Petrol",
+        "Fuel_Type": 14535,
+        "Consumption": "litre",
+        "Unit": 29797,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Motorcycles",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Diesel",
+        "Fuel_Type": 163,
+        "Consumption": "litre",
+        "Unit": 350,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Bus",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Cars",
+        "Activity": "Petrol",
+        "Fuel_Type": 551,
+        "Consumption": "litre",
+        "Unit": 1130,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Motorcycles",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Petrol",
+        "Fuel_Type": null,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Diesel",
+        "Fuel_Type": 4121,
+        "Consumption": "litre",
+        "Unit": 8860,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Bus",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Cars",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Motorcycles",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Bus",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Cars",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Motorcycles",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Petrol",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Vans",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    },
+    {
+        "Asset": "Company vehicles",
+        "Activity_Type": "Bus",
+        "Activity": "Diesel",
+        "Fuel_Type": 0,
+        "Consumption": "litre",
+        "Unit": 0,
+        "Spend": "RM"
+    }
+]
